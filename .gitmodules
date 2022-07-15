@@ -1,0 +1,3 @@
+[submodule "szpy"]
+	path = szpy
+	url = https://github.com/hyouwenly/szpy.git
