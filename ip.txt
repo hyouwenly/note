@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="baidu_union_verify" content="a065877f730f8add5f5f5d3402ba2667">
+  <meta name="shenma-site-verification" content="0cabaefedd05f200a1cecb48ecea03b9_1641271817"/>
+  <meta name="msvalidate.01" content="7E5E4454EED8506E660177888F69E702" />
+  <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+  <title>ip查询_ip地址查询_本机ip_我的ip</title>
+	<meta name="description" content="www.ipip5.com提供ip,本机ip,ip查询,ip地址查询,我的ip,ip查询地址,查看本机ip,本机ip地址查询,等区县级ip地址查询服务和提供ip查询接口api.">
+	<meta name="keywords" content="ip,本机ip,ip查询,ip地址查询,我的ip,ip查询地址,查看本机ip,本机ip地址查询,ipip5">
+	<meta name="baidu-site-verification" content="tDjezC8wtk" />
+	 <meta name="shenma-site-verification" content="0cabaefedd05f200a1cecb48ecea03b9_1651634514">
+	<meta name="360-site-verification" content="9294ef1ad79ce0051695356d6b5b4a69" />
+	<meta name="sogou_site_verification" content="vvHoretHs0"/>
+	<meta name="google-site-verification" content="z7hR9v8O9KzdTwyXJaXB5Yayf7eoMSLrDQENymtDYOo" />
+	<meta name="sogou_site_verification" content="vvHoretHs0" />
+	<link rel="shortcut icon" href="favicon.ico">
+	<base target="_blank" />
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="//apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css?v=2021121901">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="//cdn.bootcdn.net/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//cdn.bootcdn.net/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	<!--<script src="nativeShare.js"></script>-->
+  <script data-ad-client="ca-pub-7995482604485635" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  </head>
+<body>
+<div class="container">
+<div style="padding:5px;width:100%;overflow-x:hidden;">
+    <h1 class="text-center">IPIP5<small>.COM ip地址查询</small></h1>
+    <p align="center"><a target="_blank" href="https://www.ipip5.com/">ip查询</a> <a target="_blank" href="https://bishun.ipip5.com">笔顺</a> <a target="_blank" href="https://cidian.ipip5.com">汉语词典</a> <a target="_blank" href="https://chengyu.ipip5.com">成语大全</a> <a target="_blank" href="https://zidian.ipip5.com">新华字典</a> <a target="_blank" href="https://zuci.ipip5.com">组词</a> <a target="_blank" href="https://zaoju.ipip5.com">造句</a> <a target="_blank" href="https://jx.ipip5.com">手机号码测吉凶</a> <a target="_blank" href="https://shouji.ipip5.com">手机号码归属地</a> <a target="_blank" href="https://tianqi.ipip5.com">天气预报</a> <a target="_blank" href="https://kuaidi.ipip5.com">快递单号查询</a> <a target="_blank" href="https://ipv6.ipip5.com">ipv6地址查询</a> <a target="_blank" href="https://post.jsonin.com/">在线post</a> <a target="_blank" href="http://websocket.jsonin.com/">在线websocket</a> <a target="_blank" href="https://wnl.ipip5.com/">万年历</a> <a target="_blank" href="https://laohuangli.ipip5.com/">老黄历</a> <a target="_blank" href="https://www.xiaof.com/">useragent大全</a></p>
+	<form name="shareip" method="post" target="_self" onSubmit="return myCheck()">
+	<input type="hidden" name="token" value=""> 
+    <input name="ip" id="ip" class="form-control input-lg" type="text" placeholder="请输入一个ip地址或域名，回车" autofocus x-webkit-speech>
+	</form>
+<div class="panel panel-default mt-20">
+  <div class="panel-body text-center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ipip5横幅 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7995482604485635"
+     data-ad-slot="3309596303"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+  <div class="panel panel-default mt-20" style="margin-top: 20px;font-weight:bold;padding:10px;">
+  <a style="color:red;" rel="nofollow" target="_blank" href="https://curl.qcloud.com/NX62SVIA">【腾讯云】热门云产品首单特惠秒杀，2核2G云服务器45元/年 https://curl.qcloud.com/NX62SVIA</a> <a href='https://fangdaijsq.ipip5.com' target='_blank'>房贷计算器</a>
+  </div>
+	<div class="panel panel-primary mt-20">
+      <div class="panel-heading">
+        <h3 class="panel-title text-center">IPIP5.com 我的ip查询</h3>
+      </div>
+	  <div class="panel-body text-center f-16"><strong><span class="c-black">本机ip地址:</span> <a href="https://ip.ipip5.com/14.29.108.92/"><span class="c-ip">14.29.108.92</span></a></strong></div>
+      <div class="panel-body text-center table-border f-26 c-ip"><strong id="ipip5"><img alt="ip地址查询" src="spinner.gif"></strong></div>
+    </div>
+	<div class="panel panel-primary mt-20">
+      <div class="panel-heading">
+        <h3 class="panel-title text-center">IPIP5.com 区县级ip地址查询接口</h3>
+      </div>
+      <div class="panel-body text-center f-24 c-ip"><strong id="quxian"><img alt="ip地址查询" src="spinner.gif"></strong></div>
+    </div>
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title text-center">来自淘宝的ip查询接口</h3>
+  </div>
+  <div id="taobao" class="panel-body text-center"><img alt="ip地址查询" src="spinner.gif"></div>
+</div>
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title text-center">来自QQ的ip地址查询api</h3>
+  </div>
+  <div id="qq" class="panel-body text-center"><img alt="ip地址查询" src="spinner.gif"></div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title text-center">来自太平洋的ip地址查询</h3>
+  </div>
+  <div id="pconline" class="panel-body text-center"><img alt="ip地址查询" src="spinner.gif"></div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title text-center">来自百度ip查询api</h3>
+  </div>
+  <div id="baidu" class="panel-body text-center"><img alt="ip地址查询" src="spinner.gif"></div>
+</div>
+
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title text-center">来自IP138的ip地址查询</h3>
+  </div>
+  <div id="ip138" class="panel-body text-center"><img alt="ip地址查询" src="spinner.gif"></div>
+</div>
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title text-center">来自chinaz的ip地址查询</h3>
+  </div>
+  <div id="chinaz" class="panel-body text-center"><img alt="ip地址查询" src="spinner.gif"></div>
+</div>
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title text-center">来自ipchaxun的ip查询接口api</h3>
+  </div>
+  <div id="ipchaxun" class="panel-body text-center"><img alt="ip地址查询" src="spinner.gif"></div>
+</div>
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title text-center">来自360的ip地址查询</h3>
+  </div>
+  <div id="ip360" class="panel-body text-center"><img alt="ip地址查询" src="spinner.gif"></div>
+</div>
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title text-center">纯真ip查询地址数据库</h3>
+  </div>
+  <div id="czip" class="panel-body text-center"><img alt="ip地址查询" src="spinner.gif"></div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title text-center">论坛签名图片显示ip地址操作系统浏览器等信息</h3>
+  </div>
+  <div class="panel-body text-center picqm"><img alt="ip签名档论坛签名图片显示ip地址操作系统浏览器等信息" src="https://www.ipip5.com/myip"><br><br>图片地址：<input size="35" value="https://www.ipip5.com/myip"> 签名代码：<input size="35" value="[img]https://www.ipip5.com/myip[/img]"> 网页代码：<input size="35" value='<img alt="ip签名图片" src="https://www.ipip5.com/myip">'></div>
+  <div class="panel-body text-center picqm"><img alt="ip签名档论坛签名图片显示ip地址操作系统浏览器等信息" src="https://www.ipip5.com/ipimg"><br><br>图片地址：<input size="35" value="https://www.ipip5.com/ipimg"> 签名代码：<input size="35" value="[img]https://www.ipip5.com/ipimg[/img]"> 网页代码：<input size="35" value='<img alt="ip签名图片" src="https://www.ipip5.com/ipimg">'></div>
+</div>
+<!--
+	<div class="panel panel-primary mt-20">
+  <div class="panel-body text-center">
+  <div class='like-vote'>
+	<p class='like-title'>Do you like me?</p>
+	<div class='like-count'>
+		<i class="fa fa-heart"></i><span></span>
+	</div>
+</div>
+  </div>
+</div>
+-->
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title text-center">把www.ipip5.com分享给你的朋友</h3>
+  </div>
+  <div class="panel-body text-center">ip查询就上www.ipip5.com</div>
+</div>
+  <div class="panel panel-default mt-20" style="margin-top: 20px;font-weight:bold;padding:10px;">
+  <a style="color:red;" rel="nofollow" target="_blank" href="https://curl.qcloud.com/DbAz2syh">【腾讯云】新客户专属福利，新客户无门槛领取总价值高达2860元代金券，每种代金券限量500张，先到先得。https://curl.qcloud.com/DbAz2syh</a> <a href='https://fangdaijsq.ipip5.com' target='_blank'>房贷计算器</a>
+  </div>
+<div class="panel panel-default">
+  <div class="panel-body text-center"><a target="_blank" href="https://www.ipip5.com/">ip查询</a> <a target="_blank" href="https://bishun.ipip5.com">笔顺</a> <a target="_blank" href="https://cidian.ipip5.com">汉语词典</a> <a target="_blank" href="https://chengyu.ipip5.com">成语大全</a> <a target="_blank" href="https://zidian.ipip5.com">新华字典</a> <a target="_blank" href="https://zuci.ipip5.com">组词</a> <a target="_blank" href="https://zaoju.ipip5.com">造句</a> <a target="_blank" href="https://tianqi.ipip5.com">天气预报</a> <a target="_blank" href="https://ico.ipip5.com">ico在线生成</a> <a target="_blank" href="https://kuaidi.jsonin.com">快递单号查询</a> <a target="_blank" href="https://shouji.ipip5.com">手机号码归属地</a> <a target="_blank" href="https://jx.ipip5.com">手机号码吉凶</a> <a target="_blank" href="https://www.ipip5.com">ip地址查询</a> <a target="_blank" href="https://www.ipip5.com">本机ip</a> <a href="https://ipv6.ipip5.com" target="_blank">ipv6</a> <a target="_blank" href="https://www.jsonin.com">json格式化</a> <a target="_blank" href="https://www.xiaof.com">UA大全</a> <a target="_blank" href="https://www.xiaodoubi.com">历史上的今天</a></div>
+  <div class="panel-footer text-center">Copyright ©2001-2021 <a target="_blank" href="https://www.ipip5.com">本机ip</a>,<a target="_blank" href="https://www.ipip5.com/">ip查询</a>,<a target="_blank" href="https://ip.ipip5.com">ip地址查询</a>,ipip5.com All Rights Reserved. <a target="_blank" href="https://beian.miit.gov.cn/" nofolow="nofolow">闽ICP备08002005号-6</a> <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=35021102001008" nofolow="nofolow"><img src="https://cdn.xiaodoubi.com/imgs/wabeian.png" />闽公网安备35021102001008号</a> 交换链接联系：<img src="https://cdn.xiaodoubi.com/imgs/qq.gif" alt="ip地址查询https://wwww.ipip5.com"> <!--<br>本站百度权重：<img title="ipip5.com爱站网百度移动权重" alt="ipip5.com爱站网百度移动权重" src="https://baidurank.aizhan.com/api/mbr?domain=ipip5.com&style=images" /> <img title="ipip5.com站长站百度移动权重" alt="ipip5.com站长站百度移动权重" src="//csstools.chinaz.com/tools/images/rankicons/bd4.png">-->
+</div>
+</div>
+  </div>
+  </div>
+<script src="//cdn.bootcdn.net/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script language="javascript" type="text/javascript" defer="defer">
+function Q(){
+    this.a = [];//存储队列
+    this.q = function(d){
+        if(!/function|number/.test(typeof d)) return ;//队列允许存储函数与数字
+        this.a.push(d);//队列入栈
+        return this;//返回自身，可以连贯操作
+    }
+    this.d = function(){//执行队列
+        var s = this.a.shift();//队列出栈
+        if(!s) return ;//队列尽头
+        if(typeof s === "function"){//队列是函数直接执行，然后执行下一个队列
+            s();this.d();
+            return ;
+        }
+        setTimeout(function(){//队列如果是数字就是定时延迟执行
+            Q.d();
+        }, s);
+    }
+}
+ 
+var Q = new Q();
+ 
+Q.q(function(){
+    document.getElementById("ipip5").innerHTML = "中国   广东省 广州市 电信";
+})
+.q(500)
+.q(function(){
+    document.getElementById("quxian").innerHTML = "广东省广州市黄埔区	电信";
+})
+.q(500)
+.q(function(){
+    document.getElementById("taobao").innerHTML = "中国  广东 广州 电信";
+})
+.q(500)
+.q(function(){
+    document.getElementById("qq").innerHTML = "广东省广州市黄埔区	电信";
+})
+.q(500)
+.q(function(){
+    document.getElementById("pconline").innerHTML = "广东省广州市 电信";
+})
+.q(500)
+.q(function(){
+    document.getElementById("baidu").innerHTML = "福建省福州市";
+})
+.q(500)
+.q(function(){
+    document.getElementById("ip138").innerHTML = "广东省广州市 电信";
+})
+.q(500)
+.q(function(){
+    document.getElementById("chinaz").innerHTML = "中国广东广州";
+})
+.q(500)
+.q(function(){
+    document.getElementById("ipchaxun").innerHTML = "中国广东广州 电信";
+})
+.q(500)
+.q(function(){
+   document.getElementById("ip360").innerHTML = "广东省广州市黄埔区	电信";
+})
+.q(500)
+.q(function(){
+    document.getElementById("czip").innerHTML = "广东省广州市 电信";
+})
+.q(500)
+.q(function(){
+    document.getElementById("ip").value = "14.29.108.92";
+})
+.d();
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?cf6e771b888e5bc4037af23328fcd674";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id: "BxwKnWdvKB0cKFai",ck: "BxwKnWdvKB0cKFai"})</script>
+</body></html>
